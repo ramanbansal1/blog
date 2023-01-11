@@ -71,4 +71,4 @@ related_topic.values()
 ```
 
 Thanks for reading.
-Orignal article: (Dev.to)[https://dev.to/ramanbansal/a-comprehensive-guide-to-using-the-pytrends-python-library-3l0d]
+Orignal article: [Dev.to](https://dev.to/ramanbansal/a-comprehensive-guide-to-using-the-pytrends-python-library-3l0d)
